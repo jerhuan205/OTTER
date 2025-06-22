@@ -1,6 +1,9 @@
 # OTTER
-The "OTTER", or my RISC-V 32-bit Processor made from scratch
+The "OTTER", or my RISC-V 32-bit Processor made from scratch. 
+The project implements the entire RISC-V 32I instruction set highlighted in the OTR Assembler Manual below. 
+A block diagram of the entire processor has been attached below.
 
+# References
 https://www.youtube.com/watch?v=jTHeDDsXRnQ 
 https://www.youtube.com/watch?v=nBnOtG2A2Pc
 https://www.youtube.com/@slogary95/videos
